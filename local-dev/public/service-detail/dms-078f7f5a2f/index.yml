@@ -1,0 +1,26 @@
+alerts:
+  - 2016_12_05_17_23_45_42:
+    description: The decline in spirograph and the rise in gang activity
+    graph: https://frinkiac.com/img/S07E02/1108189.jpg
+    link: https://frinkiac.com/episode/S07E02/1108189
+    resolved: false
+    severity: h
+    alertOccurred: 2016-12-05-17-20-12-34
+    alertLogged: 2016-12-05-17-23-45-42
+  - 2016_12_17_16_53_12_23:
+    description: Disco record sales were up 400%
+    graph: https://frinkiac.com/img/S08E11/288721.jpg
+    link: https://frinkiac.com/episode/S08E11/290589
+    resolved: true
+    severity: l
+    alertOccurred: 2016-12-17-12-30-12-34
+    alertLogged: 2016-12-17-16-53-12-23
+  - 2016_12_14_12_45_12_34:
+    description: As intelligence goes up, happiness often goes down
+    graph: https://frinkiac.com/img/S12E09/1066440.jpg
+    link: https://frinkiac.com/episode/S12E09/1066440
+    resolved: false
+    severity: m
+    alertOccurred: 2016-12-14-12-30-12-34
+    alertLogged: 2016-12-14-12-45-12-34
+lastUpdate: 2016_12_17_20_01_11_22
